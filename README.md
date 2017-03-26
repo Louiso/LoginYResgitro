@@ -2,7 +2,8 @@
 
 ## Install
 
-´´´
+```
 meteor npm install
+
 meteor
-´´´
+```
