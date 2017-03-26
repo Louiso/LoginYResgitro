@@ -1,0 +1,15 @@
+/* CSS declarations go here */
+#change{
+  float:right;
+}
+.nav-wrapper{
+  background-color:rgb(65, 100, 168);
+}
+body{
+  background-color:rgb(144, 174, 191);
+}
+nav div a img{
+  position: relative;
+  width: 20%;
+  float:right;
+}
