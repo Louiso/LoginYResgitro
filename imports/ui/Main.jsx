@@ -16,10 +16,7 @@ export default class Main extends React.Component{
             <Login/>
         </div>
           <div className='col s8'>
-
                <img className='responsive-img' src="https://i.ytimg.com/vi/Y4lJ1iEWxeQ/maxresdefault.jpg"/>
-
-
           </div>
         </div>
       </div>
